@@ -1,0 +1,12 @@
+{
+  "name": "api-node-register",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SMCodesVideo/api-node-register.git",
+  "author": "SMCodesVideo <smcodes000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.14"
+  }
+}
